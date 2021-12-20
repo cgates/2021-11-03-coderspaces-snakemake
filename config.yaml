@@ -1,0 +1,5 @@
+input_base_filenames:
+  - "little_women_part_1"
+  - "little_women_part_2"
+
+select_words_regex: '^(Jo|Amy|Laurie|Beth)\t'
